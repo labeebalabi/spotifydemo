@@ -1,0 +1,177 @@
+ <div class="row ">
+                    <div class="col-7 ps-4 fs-4 mt-3 mb-3 fw-semibold text-white check" >
+                        Recently played
+
+                    </div>
+                    <div class="col-5 mb-3" style="margin-top: 27px;">
+                        <a href="#" class="see text-muted  ">SEE ALL</a>
+
+                    </div>
+                </div>
+
+                <!-- main body    -->
+
+                
+                <section class="audiogallery">
+                  <div class="container-fluid">
+
+                    <div class="row seven" >
+
+
+                      <div class="container">
+                        <div class="row">
+                          <div class=" col  ">
+                            <div class="effect">
+                            <div class="card " id="lo"  >
+                              <div class="img-container">
+                              <img src="one.jpg" class="card-img-top image " alt="...">
+                              <div class="overlay">
+                                <button class="btn btnply btn-sm" >
+                                  <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                </button>
+                              </div>
+                            </div>
+                              <div class="card-body ">
+                                <h5 class="card-title text-white">Thallumaala</h5>
+                                <p class="card-text">Vishnu Vijay</p>
+                                
+                              </div>
+                            </div>
+                          </div>
+                          </div>
+
+
+                          <div class="col remove1 text-warning">
+                            <div class="effect">
+                              <div class="card " id="lo"  >
+                                <div class="img-container">
+                                <img src="two.jpg" class="card-img-top image " alt="...">
+                                <div class="overlay">
+                                  <button class="btn btnply btn-sm" >
+                                    <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                  </button>
+                                </div>
+                              </div>
+                                <div class="card-body ">
+                                  <h5 class="card-title text-white">On Top</h5>
+                                  <p class="card-text">Karan Aujla</p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+
+                          <div class="col remove2 text-warning">
+                            <div class="effect">
+                              <div class="card " id="lo"  >
+                                <div class="img-container">
+                                <img src="three.jpg" class="card-img-top image " alt="...">
+                                <div class="overlay">
+                                  <button class="btn btnply btn-sm" >
+                                  <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                </button>
+                                </div>
+                              </div>
+                                <div class="card-body ">
+                                  <h5 class="card-title text-white">A for Arjan</h5>
+                                  <p class="card-text">Arjan Dhillon</p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+
+                          <div class="col remove3  text-warning">
+                            <div class="effect">
+                              <div class="card " id="lo"  >
+                                <div class="img-container">
+                                <img src="one.jpg" class="card-img-top image " alt="...">
+                                <div class="overlay">
+                                  <button class="btn btnply btn-sm" >
+                                  <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                </button>
+                                </div>
+                              </div>
+                                <div class="card-body ">
+                                  <h5 class="card-title text-white">Thallumaala</h5>
+                                  <p class="card-text">Vishnu Vijay</p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+
+                          <div class="col remove4  text-warning">
+                            <div class="effect">
+                              <div class="card " id="lo"  >
+                                <div class="img-container">
+                                <img src="one.jpg" class="card-img-top image " alt="...">
+                                <div class="overlay">
+                                  <button class="btn btnply btn-sm" >
+                                  <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                </button>
+                                </div>
+                              </div>
+                                <div class="card-body ">
+                                  <h5 class="card-title text-white">Thallumaala</h5>
+                                  <p class="card-text">Vishnu Vijay</p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+
+                          <div class="col remove5 text-warning">
+                            <div class="effect">
+                              <div class="card " id="lo"  >
+                                <div class="img-container">
+                                <img src="one.jpg" class="card-img-top image " alt="...">
+                                <div class="overlay">
+                                  <button class="btn btnply btn-sm" >
+                                  <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                </button>
+                                </div>
+                              </div>
+                                <div class="card-body ">
+                                  <h5 class="card-title text-white">Thallumaala</h5>
+                                  <p class="card-text">Vishnu Vijay</p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+
+                          <div class="col remove6 text-warning">
+                            <div class="effect">
+                              <div class="card " id="lo"  >
+                                <div class="img-container">
+                                <img src="one.jpg" class="card-img-top image " alt="...">
+                                <div class="overlay">
+                                  <button class="btn btnply btn-sm" >
+                                  <i class="fas fa-play  btnply text-black rounded-circle"></i>
+                                </button>
+                                </div>
+                              </div>
+                                <div class="card-body ">
+                                  <h5 class="card-title text-white">Thallumaala</h5>
+                                  <p class="card-text">Vishnu Vijay</p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          
+                          
+                        </div>
+                      </div>
+
+
+                    </div>
+
+                  </div>
+                </section>

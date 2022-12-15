@@ -26,18 +26,10 @@ body{
 
 .extra{
     width: 100%;
-    height: 150px;
+    height: 600px;
    
     
-   
-  
-}
-#tosticky{
-   
-    position: sticky;
-    top: 0px;
-    left: 0px;
-    z-index: 2;
+    background-color:black;
 }
 
 .row .hlo
@@ -79,6 +71,10 @@ padding-right: calc(var(--bs-gutter-x) * 0);
  .see:hover{
     text-decoration: underline;
  }
+
+.hlo{
+   
+}
 
  @media (max-width:1830px)
  {
@@ -126,6 +122,9 @@ padding-right: calc(var(--bs-gutter-x) * 0);
 @media (max-width:575px)
 {
 
+.remove1{
+   display: none;
+}
 .t1{
     display: none;
 }
@@ -264,7 +263,7 @@ padding-right: calc(var(--bs-gutter-x) * 0);
    
     position: sticky;
     top: 0px;
-    z-index: 2;
+    z-index: 1;
    
 
 }
@@ -274,9 +273,7 @@ padding-right: calc(var(--bs-gutter-x) * 0);
    
     top: 0px;
     left: 0px;
-  
-
-   
+    z-index: 2;
     
 
 }
@@ -542,55 +539,3 @@ i:hover{
     }
 
 }
-
-
-
-
-/*edit after long time*/
-
-@media (max-width:575px) {
-    .card{
-        height: 100px;
-        width: 150px;
-    }
-    .remove2 ,.remove3{
-        display: grid;
-    }
-    #first {
-       
-        overflow-x: scroll;
-        display: -webkit-box;
-        
-      
-
-    }
-    #thrd{
-       
-    }
-    .hscroll{
-        border: white solid;
-   
-       
-    }
-    #sec{
-        flex-grow: unset;
-        margin-right: 8rem;
-    }
-    #sec1{
-        flex-grow: unset;
-       
-    }
-
-
-    
-    
-}
-@media (max-width:420px) {
-    .remove3{
-        display: none;
-    }
-    
-}
-
-
-
